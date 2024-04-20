@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Iness</h1>
 <h3 align="center">A passionate future data scientist </h3>
-<img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 
 
 
-- 🌱 I’m currently learning **AI**
-
-- 💬 Ask me about **ML , DL**
-
-- 📫 How to reach me **iness.elahchaichi@esprit.tn**
+🤖 I’m currently diving into the world of AI.
+💬 Ask me anything about Machine Learning (ML) and Deep Learning (DL).
+📫 You can reach me at: **hchaichiiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
