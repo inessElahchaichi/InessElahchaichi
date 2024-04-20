@@ -3,9 +3,9 @@
 
 
 
-🤖 I’m currently diving into the world of AI.
-💬 Ask me anything about Machine Learning (ML) and Deep Learning (DL).
-📫 You can reach me at: **hchaichiiness@gmail.com**
+- 🤖 I’m currently diving into the world of AI.
+- 💬 Ask me anything about Machine Learning (ML) and Deep Learning (DL).
+- 📫 You can reach me at: **hchaichiiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
